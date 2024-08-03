@@ -23,7 +23,7 @@ When innerHTML is used, any HTML tags or JavaScript code in the user input will 
 
 The Walkthrough is available on Youtube:
 
-https://www.youtube.com/watch?v=i-ZlhnlWsWA
+https://www.youtube.com/watch?v=dm_YFI0hEvs
 
 Support My Work With A Cup Of Coffee
 
